@@ -1,1 +1,1 @@
-##### https://developer.nvidia.com/blog
+##### developer.nvidia.com/blog
